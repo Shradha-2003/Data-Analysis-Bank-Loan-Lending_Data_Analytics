@@ -1,5 +1,5 @@
 # Portfolio Project (Data Analysis): Bank Loan Lending Data Analytics.
-### Arnav Chaturvedi
+### Shradha Sangave
 ### Project Role: Data Analyst – Financial Bank.
 
 
